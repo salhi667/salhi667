@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Mohamed Salhi
+# 👋 Hello, I'm mouhcin Salhi
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Programming+Learner;Python+Developer;Linux+Learner;Cybersecurity+Enthusiast"/>
 
@@ -13,10 +13,10 @@
 ## 💫 About Me
 
 ```python
-class MohamedSalhi:
+class MouhcinSalhi:
 
     def __init__(self):
-        self.name = "Mohamed Salhi"
+        self.name = "Mouhcin Salhi"
         self.role = "Programming Learner"
         self.language = ["Python", "C", "Java"]
         self.os = "Linux"
